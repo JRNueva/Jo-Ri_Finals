@@ -22,6 +22,8 @@
     }
   }
 
+  const practicec =''
+
   /**
    * Easy event listener function
    */
