@@ -5,6 +5,8 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
+
+// SAMPLE
 (function() {
   "use strict";
 
@@ -19,6 +21,10 @@
       return document.querySelector(el)
     }
   }
+
+  const practicec =''
+  const practice = select('#practice', true)
+  
 
   /**
    * Easy event listener function
