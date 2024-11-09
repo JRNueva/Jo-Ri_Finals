@@ -23,6 +23,8 @@
   }
 
   const practicec =''
+  const practice = select('#practice', true)
+  
 
   /**
    * Easy event listener function
